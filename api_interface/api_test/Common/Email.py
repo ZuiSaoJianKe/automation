@@ -10,10 +10,10 @@ def send_email(report_file):
     mail_body=f.read()
     f.close()
 
-    username="alphonse9317@163.com"
-    password="WFEQZYVILZYWEGLX"
-    sender="alphonse9317@163.com"
-    receiver=["526385328@qq.com","zhongquan1993@outlook.com"]
+    username="xxxxx@xx.com"
+    password="xxxxx"
+    sender="xxxxx@xx.com"
+    receiver=["xxxxx@xx.com","xxxxx@xx.com"]
 
     body=MIMEText(mail_body,"html","utf-8")
     msg=MIMEMultipart()
