@@ -1,0 +1,18 @@
+[
+
+  [
+  {"username":"root",
+    "password":"123456"},
+  {"message": 200,
+    "user": "root"}
+  ],
+  [
+  {
+  "username":"zjw",
+  "password":"123456"
+},{
+    "message": 200,
+    "user": "zjw"
+    }
+  ]
+]
